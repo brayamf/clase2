@@ -14,15 +14,15 @@ public class Ejemplo {
     while (x > 0) {
        
      if (x > 2) {
-    System.out.println("a");
+    System.out.print("a");
      }
      if (x == 2)
     {
-    System.out.println("b c");
+    System.out.print("b c");
     }
      if (x == 1)
     {
-    System.out.println("d");
+    System.out.print("d");
     x = x - 1 ;
     }
    
