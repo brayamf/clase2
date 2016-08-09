@@ -27,7 +27,7 @@ public class Ejemplo {
     }
    
     x = x - 1 ; 
-     System.out.print("-");
+     System.out.print("-");//
      }
     }
     }
